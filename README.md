@@ -1,4 +1,4 @@
-<p align="right">FR / <a href="https://github.com/angelabenavente/angelabenavente#readme" tabindex=”0” role=”link” style=”cursor:pointer;>EN</a> / <a href="https://github.com/angelabenavente/angelabenavente_es#readme" tabindex=”0” role=”link” style=”cursor:pointer;>ES</a></p>
+<p align="right">FR / <a href="https://github.com/angelabenavente" tabindex=”0” role=”link” style=”cursor:pointer;>EN</a> / <a href="https://github.com/angelabenavente/angelabenavente_es#readme" tabindex=”0” role=”link” style=”cursor:pointer;>ES</a></p>
 
 # Salut, je suis Angela 👋
 
