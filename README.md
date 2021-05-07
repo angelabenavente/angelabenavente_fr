@@ -52,7 +52,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelabenavente&hide=contribs,issues&include_all_commits=true&theme=top-langs/?username=angelabenavente&layout=compact&show_icons=true&border_color=ffffff&custom_title=Stats&count_private=true&disable_animations=true" />
 </p>
 
-### Réseaux sociaux;
+### Réseaux sociaux:
 <p>
     <a href="https://es.linkedin.com/in/%C3%A1ngela-benavente-almaz%C3%A1n-436003174" tabindex=”0” role=”link” style=”cursor:pointer;”>
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=plastic&amp;e&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;" alt="LinkedIn" data- canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=plastic&amp;e&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
