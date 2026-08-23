@@ -14,16 +14,16 @@
 </h1>
 
 <p>
-  Je suis ingénieure senior basée en Espagne, spécialisée en front-end et produit. J'aime combiner créativité et données pour créer des applications web et mobiles utiles.
+  Je suis ingénieure senior en Espagne, spécialisée dans le front-end et le produit. J'aime mêler créativité et données pour concevoir des outils vraiment utiles.
 </p>
 
 <p>
-  L'accessibilité et la sécurité sont essentielles pour moi, et j'écris sur ce que j'apprends au fil du temps sur
+  L'accessibilité et la sécurité me tiennent particulièrement à cœur. Je partage ce que j'apprends sur ces sujets, entre autres, sur
   <a href="https://angelabenavente.github.io/">mon blog</a>.
 </p>
 
 <p>
-  Ouverte aux collaborations intéressantes et au mentorat :)
+  Toujours partante pour des collaborations intéressantes ou du mentorat :)
 </p>
 
 ---
