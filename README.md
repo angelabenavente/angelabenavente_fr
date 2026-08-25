@@ -19,7 +19,7 @@
 
 <p>
   L'accessibilité et la sécurité me tiennent particulièrement à cœur. Je partage ce que j'apprends sur ces sujets, entre autres, sur
-  <a href="https://angelabenavente.github.io/">mon blog</a>.
+  <a href="https://www.elabezan.com/">mon blog</a>.
 </p>
 
 <p>
